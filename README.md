@@ -14,7 +14,8 @@ The main goals of this website:
 ## UX
 
 The aim was to design a simple and easy to use website as their target audience covers a wide age range. The website is single page which could make navigating through website easier with just scrolling. Also, the menu is always on the top of the screen so the user can jump to the required section. Each section has a header to let the user know the which section is ….
-
+### Wireframe
+To make the wireframe [Figma](http://figma.com) was used. However, during the process some changes have been done. The wireframe is a PDF file which can be seen [here](/wireframe/Monkees-wirefram.pdf) 
 ## Technologies
 1. HTML
 2. CSS
