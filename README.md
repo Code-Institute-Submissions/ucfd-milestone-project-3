@@ -46,7 +46,7 @@ This site was tested on Chrome, Safari and different mobile devices. On the iPho
 
 
 ## Deployment
-This site is hosted using Github Pages, uses the master branch. The deployed site will be updated automatically when with new commit to the master branch. A demo can be viewed on Github Pages here.
+This site is hosted using Github Pages, uses the master branch. The deployed site will be updated automatically when with new commit to the master branch. A demo can be viewed on Github Pages [here](https://adelbakhshi.github.io/ucfd-mileston-project/).
 
 
 ### Media
