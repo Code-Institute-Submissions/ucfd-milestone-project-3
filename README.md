@@ -42,7 +42,7 @@ In this section the contact form can be used to contact the band. All the fields
 
 
 ## Testing
-This site was tested on Chrome, Safari and different mobile devices. On the iPhone (iOS) the background image in the home section appears zoomed-in. Also, on small screen, the collapsed navigation would stay open after selection which was fixed with JavaScript code.
+This site was tested on Chrome, Safari and different mobile devices. On the iPhone (iOS) the background image in the home section appears zoomed-in that need to be fixed. Also, on small screen, the collapsed navigation remained open after selection which was fixed with JavaScript code.
 
 
 ## Deployment
