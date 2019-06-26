@@ -42,11 +42,34 @@ In this section the contact form can be used to contact the band. All the fields
 
 
 ## Testing
-This site was tested on Chrome, Safari and different mobile devices. On the iPhone (iOS) the background image in the home section appears zoomed-in that need to be fixed. Also, on small screen, the collapsed navigation remained open after selection which was fixed with JavaScript code.
+This site was tested on Chrome, Safari and different mobile devices. 
+
+##### 1. Watch videos (media page):
+    1. Went to the Media section
+    2. clicked on watch buttons and modal window opened. Clicked play button and video plays.
+    3. Tried to close the window by clicking on the screen (not on the video). The window disappeared but the sound was still playing.
+    4. Stopped the video then closed the window and it worked as expected.  
+
+##### 2. Contact Form
+    1. Went to the contact section
+    2. Tried to submit the empty form and the error message about the required fields appears.
+    3. Submitted the form with an invalid email address and the relevant error message appears
+    4. Submitted the form with valid inputs, there was no error.
+
+##### 3. Small Screen (mobile)
+    1. Open the Home section on mobile (iOS). The background image was zoomed-in.
+
+##### 4. Small Screen - Navigation
+    1. Clicked on navigation button
+    2. The menu opened, after selection the menu stayed open
+    3. Added JavaScriped code and the menu closes ofter selection 
 
 
 ## Deployment
-This site is hosted using Github Pages, uses the master branch. The deployed site will be updated automatically when with new commit to the master branch. A demo can be viewed on Github Pages [here](https://adelbakhshi.github.io/ucfd-mileston-project/).
+This site is hosted using Github Pages, uses the master branch. The deployed site will be updated automatically with new commit to the master branch. 
+
+## Demo
+A demo can be viewed on Github Pages [here](https://adelbakhshi.github.io/ucfd-mileston-project/).
 
 
 ### Media
