@@ -38,19 +38,19 @@ To make the wireframe [Figma](http://figma.com) was used. However, during the pr
 ### Features
 This website is a single page website and contains five sections. Each section has a title on the top left side to make sure the user don't get lost.</br> The navigation is always on top of the screen so the user can jump to the required section at any time.
 
-##### Home
+##### Home Section
 This section is a full screen photo of band and their popular logo which will be shown in all the screen sizes. On small screens most of the background cover can not be viewed but the logo of the band on the bottom of the screen represent the identity of the website.
 
-##### Media
+##### Media Section
 In media section page is divided in two sections. the left side user can see the two latest videos of the band that can be watch in a modal window by clicking on watch button and on the right side the last three album that have been released.
 
-##### News
+##### News Section
 In this section the three latest news of the band will be shown. A photo is included to news block which, will not be shown in the small size screens.
 
-##### Band
+##### Band Section
 This section contains an old photo of the band with a short biography of the band on the side.
 
-##### Contact
+##### Contact Section
 In this section the contact form can be used to contact the band. All the fields are required to be filled and email format has to be correct otherwise the error message will appear.
 
 
